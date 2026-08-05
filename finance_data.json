@@ -1,0 +1,90 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "title": "Software Engineer Salary",
+            "amount": 4500.0,
+            "type": "income",
+            "category": "Salary",
+            "date": "2026-08-01",
+            "description": "Monthly payroll salary"
+        },
+        {
+            "id": 2,
+            "title": "Apartment Rent",
+            "amount": 1200.0,
+            "type": "expense",
+            "category": "Housing & Rent",
+            "date": "2026-08-02",
+            "description": "Monthly rent payment"
+        },
+        {
+            "id": 3,
+            "title": "Whole Foods Market",
+            "amount": 145.5,
+            "type": "expense",
+            "category": "Food & Dining",
+            "date": "2026-08-03",
+            "description": "Weekly groceries"
+        },
+        {
+            "id": 4,
+            "title": "Freelance Web Design",
+            "amount": 850.0,
+            "type": "income",
+            "category": "Freelance",
+            "date": "2026-07-25",
+            "description": "Client website design"
+        },
+        {
+            "id": 5,
+            "title": "Electricity Bill",
+            "amount": 125.8,
+            "type": "expense",
+            "category": "Utilities",
+            "date": "2026-07-28",
+            "description": "Utility bill payment"
+        },
+        {
+            "id": 6,
+            "title": "Amazon Electronics",
+            "amount": 189.99,
+            "type": "expense",
+            "category": "Shopping",
+            "date": "2026-07-22",
+            "description": "Headphones"
+        }
+    ],
+    "budgets": [
+        {
+            "id": 1,
+            "category": "Food & Dining",
+            "monthly_limit": 600.0
+        },
+        {
+            "id": 2,
+            "category": "Housing & Rent",
+            "monthly_limit": 1200.0
+        },
+        {
+            "id": 3,
+            "category": "Shopping",
+            "monthly_limit": 300.0
+        },
+        {
+            "id": 4,
+            "category": "Entertainment",
+            "monthly_limit": 200.0
+        },
+        {
+            "id": 5,
+            "category": "Transportation",
+            "monthly_limit": 250.0
+        },
+        {
+            "id": 6,
+            "category": "Utilities",
+            "monthly_limit": 180.0
+        }
+    ]
+}
